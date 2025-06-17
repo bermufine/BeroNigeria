@@ -48,7 +48,7 @@
 "subtitleNig": "All Channel",
 "thumbNig": "https://od.lk/s/M18yODMxNDMzNjlf/africatree.jpg",
 "titleNig": "AFRICA TV 3"
-        },
+        }
       ]
     }
   ]
