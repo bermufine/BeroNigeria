@@ -48,6 +48,87 @@
 "subtitleNig": "All Channel",
 "thumbNig": "https://od.lk/s/M18yODMxNDMzNjlf/africatree.jpg",
 "titleNig": "AFRICA TV 3"
+        },
+        {
+  "descriptionNig": "A Music TV est la chaine du nigeria qui diffuse des musique, africains et autres...",
+"sourceNig": [
+"https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8"
+],
+"subtitleNig": "All Channel",
+"thumbNig": "https://od.lk/s/M18yODMxNDMzNjlf/africatree.jpg",
+"titleNig": "A MUSIC TV"
+        },
+         {
+  "descriptionNig": "Approval TV est la chaine du nigeria.",
+"sourceNig": [
+"https://live.approvaltv.com/approvaltv/index.m3u8"
+],
+"subtitleNig": "All Channel",
+"thumbNig": "https://od.lk/s/M18yODMxNDMzNjlf/africatree.jpg",
+"titleNig": "APPROVAL TV"
+        },
+        {
+  "descriptionNig": "APTIM TV est la chaine du nigeria.",
+"sourceNig": [
+"https://stream.commec.tv/6447b2559d8b0711e2fa75cc/live_222c2dc0b69f11ee8c3c99218c8c67c4/index.fmp4.m3u8"
+],
+"subtitleNig": "All Channel",
+"thumbNig": "https://od.lk/s/M18yODMxNDMzNjlf/africatree.jpg",
+"titleNig": "APTIM TV"
+        },
+        {
+  "descriptionNig": "Dunamis TV est la chaine du nigeria.",
+"sourceNig": [
+"https://atechgroupuk.site/DTV.m3u8"
+],
+"subtitleNig": "All Channel",
+"thumbNig": "https://od.lk/s/M18yODMxNDMzNjlf/africatree.jpg",
+"titleNig": "Dunamis TV"
+        },
+        {
+  "descriptionNig": "Kingsview TV est la chaine du nigeria.",
+"sourceNig": [
+"https://j78dp6reyq5r-hls-live.5centscdn.com/4896_push_1963_001/00cb1f2e4ff89048f2e77e26940c00e6.sdp/playlist.m3u8"
+],
+"subtitleNig": "All Channel",
+"thumbNig": "https://od.lk/s/M18yODMxNDMzNjlf/africatree.jpg",
+"titleNig": "Kingsview TV"
+        },
+        {
+"descriptionNig": "Love World is a christian tv channel !",
+"sourceNig": [
+"https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/chunklist.m3u8"
+],
+"subtitleNig": "All Channel",
+"thumbNig": "https://od.lk/s/M18yODU3MTI0MDRf/LoveWorldUSA.png",
+"titleNig": "LOVE WORLD TV"
+        },
+        {
+"descriptionNig": "Qausain TV is a christian tv channel !",
+"sourceNig": [
+"https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8"
+],
+"subtitleNig": "All Channel",
+"thumbNig": "https://od.lk/s/M18yODU3MTI0MDRf/LoveWorldUSA.png",
+"titleNig": "Qausain TV"
+        },
+        {
+"descriptionNig": "Superscreen TV is a christian tv channel !",
+"sourceNig": [
+"https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8"
+],
+"subtitleNig": "All Channel",
+"thumbNig": "https://od.lk/s/M18yODU3MTI0MDRf/LoveWorldUSA.png",
+"titleNig": "Superscreen TV"
+        },
+        {
+"descriptionNig": "Waffi TV is a christian tv channel !",
+"sourceNig": [
+"https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8"
+],
+"subtitleNig": "All Channel",
+"thumbNig": "https://od.lk/s/M18yODU3MTI0MDRf/LoveWorldUSA.png",
+"titleNig": "WAFFI TV"
         }
       ]
     }
@@ -124,15 +205,7 @@
 "thumbNig": "https://od.lk/s/M18yODMxNDI1NTVf/nta.jpg",
 "titleNig": "NTA TV"
 },
-{
-"descriptionNig": "Love World is a christian tv channel !",
-"sourceNig": [
-"https://bus-asia-east-1-cimzmgnuu-cdn.sa.metacdn.com/live/ngrp:lxp22_main_all_transcode/playlist.m3u8"
-],
-"subtitleNig": "By Channel",
-"thumbNig": "https://od.lk/s/M18yODU3MTI0MDRf/LoveWorldUSA.png",
-"titleNig": "LOVE WORLD TV"
-},
+
 {
 "descriptionNig": "Caugh-Up TV is set to deliver premium content to audiences across traditional and emerging platforms worldwide through bliss and thrill. We are giving content writers, broadcasters, television advertisers, TV Commercial agents, video bloggers, presenters, radio personalities a platform to air and monetize contents through television, streaming and digital content, studio production, publishing, live events, merchandise and more, they are assured of connecting with billions of people..",
 "sourceNig": [
